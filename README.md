@@ -75,22 +75,22 @@ Dataset preprocessing includes handling missing values, feature extraction, and 
 ## Screenshots
 
 ### Dataset Preview
-![Dataset Preview](screenshots/dataset_preview.png)
+![Dataset Preview](Screenshots/dataset_preview.png)
 
 ### Data Cleaning
-![Data Cleaning](screenshots/data_cleaning.png)
+![Data Cleaning](Screenshots/data_cleaning.png)
 
 ### Outlier Removal (Before)
-![Outlier Removal Before](screenshots/outlier_removal_before.png)
+![Outlier Removal Before](Screenshots/outlier_removal_before.png)
 
 ### Outlier Removal (After)
-![Outlier Removal After](screenshots/outlier_removal_after.png)
+![Outlier Removal After](Screenshots/outlier_removal_after.png)
 
 ### Model Selection
-![Model Selection](screenshots/model_selection.png)
+![Model Selection](Screenshots/model_selection.png)
 
 ### Sample Prediction
-![Sample Prediction](screenshots/sample_prediction.png)
+![Sample Prediction](Screenshots/sample_prediction.png)
 
 ---
 
